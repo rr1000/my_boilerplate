@@ -1,7 +1,9 @@
 my_boilerplate
 ==============
 
-###This is a starter template for web development projects. It includes the following:
+####This is a starter template for web development projects.
+
+It includes the following:
 
 - jQuery 'latest' CDN served from Google (http://jquery.com/)
 - Sass (http://sass-lang.com/)
